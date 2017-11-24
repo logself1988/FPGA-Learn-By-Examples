@@ -1,0 +1,20 @@
+*/.Xil/
+*.jou
+*.log
+*.str
+*/*.runs/impl_*/
+*/*.runs/synth_*/
+*/*.runs/.jobs/
+*/*.cache/wt/
+*/*.sim/
+vivado_pid*.zip
+*~
+*.swp
+
+# vim related files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+
+Session.vim
+
+.netrwhist
